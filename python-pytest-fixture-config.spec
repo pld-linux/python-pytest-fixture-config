@@ -7,13 +7,13 @@
 Summary:	Fixture configuration utils for py.test
 Summary(pl.UTF-8):	Narzędzia do konfiguracji osprzętu dla py.test
 Name:		python-pytest-fixture-config
-Version:	1.3.0
-Release:	2
+Version:	1.7.0
+Release:	1
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-fixture-config/
 Source0:	https://files.pythonhosted.org/packages/source/p/pytest-fixture-config/pytest-fixture-config-%{version}.tar.gz
-# Source0-md5:	7d0a9c60fccf700d68b5e6596ac81eba
+# Source0-md5:	ddfc66f7246535c2c238c72f3463b138
 URL:		https://github.com/manahl/pytest-plugins
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
