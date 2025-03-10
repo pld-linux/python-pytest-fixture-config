@@ -8,7 +8,7 @@ Summary:	Fixture configuration utils for py.test
 Summary(pl.UTF-8):	Narzędzia do konfiguracji osprzętu dla py.test
 Name:		python-pytest-fixture-config
 Version:	1.7.0
-Release:	4
+Release:	5
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-fixture-config/
